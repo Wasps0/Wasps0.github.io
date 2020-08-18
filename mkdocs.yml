@@ -1,5 +1,8 @@
 site_name: MedianXLΣ Guide
 theme: 'windmill-dark'
+site_author: 'Vosa G Tom'
+copyright: 'Copyright notice : All the content on this website is free of right'
+remote_branch: 'deploy_site'
 
 nav:
   - Home: index.md
