@@ -1,6 +1,5 @@
 site_name: MedianXLΣ Guide
 theme: 'windmill-dark'
-article_nav_top: 'false'
 
 nav:
   - Home: index.md

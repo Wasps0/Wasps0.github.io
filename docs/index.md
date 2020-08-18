@@ -15,4 +15,8 @@ The guide will touch on many subjects:
 
 ## Useful links
 
-On your right is a pannel that allow you to navigate the guide and access whichever page you want. In the meanwhile here's a list of useful external links that will ease your life in the game:
+On your right is a pannel that allow you to navigate the guide and access whichever page you want. In the meanwhile here's a list of useful external links that will ease your life in the game:  
+
+- ef
+- ee
+
