@@ -12,3 +12,6 @@ The first act1 quest grants you one reset per difficulty
 
 - How to reset my skills without the quest?  
 Belladonna potion can reset your skill w/out the quest
+
+- I don't understand all those abbreviations  
+Check this [handy page](https://median-xl.fandom.com/wiki/Abbreviations)

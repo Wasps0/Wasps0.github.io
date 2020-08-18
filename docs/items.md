@@ -1,3 +1,7 @@
+# Crafting
+
+everything you need is in the Docs cube recipe section.
+
 # TU, SU, Sets, Runewords, jewels...
 
 The first section of each type of item [Official Documentation](https://docs.median-xl.com/) is very clear and precise, read the link first.

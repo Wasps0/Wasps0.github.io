@@ -2,7 +2,7 @@ Only a couple of external tools are allowed to be used or discussed. Check this 
 
 ## D2stats and Loot Filter
 
-D2stats is a stat reader double with loot filter here is the [thread](https://forum.median-xl.com/viewtopic.php?f=4&t=3702) about it  
+D2stats is a stat reader doubled with loot filter here is the [thread](https://forum.median-xl.com/viewtopic.php?f=4&t=3702) about it  
 ***Allowed online***
 
 ## Speed Calculator
