@@ -10,11 +10,9 @@ remote_branch: 'deploy_site'
 nav:
   - Home: index.md
   - Chars and Skills: characters.md
-  - Items:
-      - Tiered items: tu.md
-      - Sacred items: su.md
-      - Other items: other_items.md
-      - Recipes: recipes.md
+  - Items: items.md
   - Progression: progression.md
   - Play online: tsw.md
+  - Tools: tools.md
+  - FAQ: faq.md
   - About: about.md
