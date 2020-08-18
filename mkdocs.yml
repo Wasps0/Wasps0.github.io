@@ -1,12 +1,20 @@
 site_name: MedianXLΣ Guide
-theme: 'windmill-dark'
+theme:
+  name: windmill-dark
+
 site_author: 'Vosa G Tom'
-copyright: 'Copyright notice : All the content on this website is free of right'
+copyright: 'Copyright notice : All the content on this website is free of right also mods are gay'
 remote_branch: 'deploy_site'
+
 
 nav:
   - Home: index.md
   - Chars and Skills: characters.md
+  - Items:
+      - Tiered items: tu.md
+      - Sacred items: su.md
+      - Other items: other_items.md
+      - Recipes: recipes.md
   - Progression: progression.md
   - Play online: tsw.md
   - About: about.md
