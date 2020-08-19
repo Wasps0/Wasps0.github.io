@@ -8,7 +8,7 @@ That said if you insist, you can go to the 'What class to play' section of the [
 
 # SKILLS
 
-Skills are the meat of your build. Most work like in diablo II with some notable changes. One key info is to read carefully the skill description. It will help you understand them.  
+Skills are the meat of your build. Most work like in Diablo II with some notable changes. One key info is to read carefully the skill description. It will help you understand them.  
 
 Skills are explained in the Docs, under the 'Character' tab.  
 - [Here](https://docs.median-xl.com/doc/class/amazon) is the amazon class with its skills explained.  
@@ -19,7 +19,7 @@ Each level up give you a skill point to invest. You can reset your skill points 
 # MISCELLANEOUS
 
 The player can run, but running decrease your defense to 0 (zero). Try to not run around mobs.  
-Hoarding item (gems, jewels, random crap) is useless in the beggining of the game.
+Hoarding item (gems, jewels, random crap) is useless in the beginning of the game.
 
 Here's a list of item you should try to keep early on:  
 1. Resistance gems (Onyx/Bloodstone/Amber/Turquoise)  
