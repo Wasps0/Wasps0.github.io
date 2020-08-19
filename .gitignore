@@ -1,2 +1,18 @@
 
-site/*
+dir_to_ignore/site/
+site/tsw/index.html
+site/tools/index.html
+site/sitemap.xml.gz
+site/sitemap.xml
+site/search/search_index.json
+site/search.html
+site/progression/index.html
+site/items/index.html
+site/index.html
+site/img/tu.png
+site/img/tsw_logo - Copie.png
+site/faq/index.html
+site/characters/index.html
+site/BLANK/index.html
+site/about/index.html
+site/404.html

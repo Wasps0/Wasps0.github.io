@@ -1,4 +1,7 @@
-# FAQ
+# COMMON QUESTIONS
+
+- Do I need a legit D2 copy?  
+Yes.  
 
 - My game is not running  
 Check this [Troubleshooting Thread](https://forum.median-xl.com/viewtopic.php?f=42&t=22704&hilit=troubleshooting)
@@ -28,6 +31,35 @@ No.
 - Does this mod support D2SE?  
 No (not yet)
 
-- I have other questions
+- I have other questions  
 You can get to the [wiki FAQ](https://median-xl.fandom.com/wiki/Frequently_Asked_Questions), or you can post on the [Short question](https://forum.median-xl.com/viewtopic.php?f=4&t=124) thread on the forum.  
 You can also post into the discord channel!
+
+# ADVANCED CONCEPTS
+
+- Ingame and in depth [Mechanics thread](https://forum.median-xl.com/viewtopic.php?f=40&t=22672).
+- [Spell damage](https://forum.median-xl.com/viewtopic.php?f=40&t=186)  
+
+Other concepts can be found in the Wiki tab in the documentation
+
+# OBSCURE AND SPECIFIC QUESTIONS OR CONCEPTS
+
+- Damage of all feedback skills is only directly affected by mana. Not by energy, spell damage or energy factor. The only other way to amplify the damage of the mana spells as a sorc is to debuff enemies
+
+
+- What graphics should i use?
+Windowed mode Glide, if Glide doesn't work, Direct2D (DDraw).
+
+- How to change diablo 2 font?  
+[Here](https://forum.median-xl.com/viewtopic.php?f=6&t=49324&hilit=fonts) or [here](https://forum.median-xl.com/viewtopic.php?f=6&t=2214&hilit=font+by+void)  
+
+- WTF are mystic orbs and occult effigy?  
+Check [this](https://forum.median-xl.com/viewtopic.php?f=6&t=31553) thread  
+
+- When you uptier an item, do you lose your mystic orb bonuses?  
+YES.  
+
+- Does IED - innate elemental dmg also works on magic damage ? , And how deadly strike works?  
+IED works ONLY on sacred elemental bases and items with XX% of listed stat added as "some elemental" damage.  
+DS works only for physical weapon damage doubling it's value with chance (conversion of daamge won't change anything so it works fine with stormblast, for example)  
+
