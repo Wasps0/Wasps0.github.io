@@ -1,5 +1,8 @@
 ![](../img/tsw_logo.png)
 # The MedianXLΣ Beginner guide
+
+***GET GOOD YOU CUNT***
+
 Here is an installation guide : [Here](https://forum.median-xl.com/viewtopic.php?f=42&t=45891)
 
 # The mod
@@ -8,7 +11,7 @@ Welcome to the Unofficial Beginner Guide for MedianXL Sigma (MXLS) . This is a G
 MXLS, compared to diablo II LoD, is a complete overhaul. This means nearly every aspect of the original game has been either modified, improved, added and some, deleted.
 
 MXLS is overwhelming at first. Most of it feels new, complex and a bit too much to chew on. Don't be scared.  
-The best bit of advice there is when you start this mod for the first time, is to start with **ANY** chars and **ANY** build. Just get a feel of the game, and then, when you managed to get your char stuck in hell, start anew with your new aquired knowledge.
+The best bit of advice there is when you start this mod for the first time, is to start with **ANY** chars and **ANY** build. Just get a feel of the game, and then, when you managed to get your char stuck in hell, start anew with your new acquired knowledge.
 
 # Read Me:
 
