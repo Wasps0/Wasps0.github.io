@@ -1,12 +1,17 @@
+
 site_name: MXLS Guide
+site_description: A MXLS Guide for beginners.
+site_author: 'Vosa G Tom'
+copyright: 'Copyright notice : All the content on this website is free of right also mods are gay'
+
 theme:
   name: windmill-dark
 
 markdown-extensions:
     - meta
+    - attr_list
 
-site_author: 'Vosa G Tom'
-copyright: 'Copyright notice : All the content on this website is free of right also mods are gay'
+
 remote_branch: 'deploy_site'
 
 

@@ -1,6 +1,4 @@
----
-description: A MXLS Guide for beginners.
----
+
 ![](../img/tsw_logo.png)
 # GETTING INTO THE GAME
 

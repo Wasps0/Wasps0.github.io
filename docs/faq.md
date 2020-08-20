@@ -31,6 +31,9 @@ No.
 - Does this mod support D2SE?  
 No (not yet)
 
+- Does mf affect shrine/rune/gems/relics drops?  
+No.  
+
 - I have other questions  
 You can get to the [wiki FAQ](https://median-xl.fandom.com/wiki/Frequently_Asked_Questions), or you can post on the [Short question](https://forum.median-xl.com/viewtopic.php?f=4&t=124) thread on the forum.  
 You can also post into the discord channel!
