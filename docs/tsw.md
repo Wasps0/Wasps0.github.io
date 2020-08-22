@@ -2,19 +2,21 @@
 
 Playing on MXLS's servers (The sin war) is extremely easy. Just click 'Play on TSW', create an account, and voila. Now you can make a char and play with everyone.
 
+Handy tip : avoid general slurs and bad words for your account name and chars. They will otherwise be banned.
+
 ## GAMESERVERS
 
 The sin war is actually not only **ONE** server, but rather a bunch of different servers hosted around the world. You can get an overview of their location, population and status on this page:
 
 [Server status page](https://tsw.median-xl.com/info)
 
-You can select your default gameserver by using the command `/gs <number>.` Where 'number' is the referred gameserver's number on the server status page.
+You can select your default game-server by using the command `/gs <number>.` Where 'number' is the referred game-server's number on the server status page.
 
 It is recommended to use a server that is geographically close to you, for performances purposes.
 
 ## TRADING
 
-MXLS has a [trading utility](https://forum.median-xl.com/tradegold.php?sid=71ce81633479ebafa992937ba32af6eb) that can be used to trade fictional gold (Tg) for items. Either buy an item with Tg or sell them for Tg.  
+MXLS has a [trading utility](https://forum.median-xl.com/tradegold.php?sid=71ce81633479ebafa992937ba32af6eb) that can be used to trade [fictional gold](https://forum.median-xl.com/info.php#tg) (Tg) for items. Either buy an item with Tg or sell them for Tg.  
 Tg can be brought by making a [donation](https://forum.median-xl.com/donate.php), and are mandatory for using the Trade center
 
 ## CAN'T PLAY ONLINE?

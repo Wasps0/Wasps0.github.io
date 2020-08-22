@@ -18,8 +18,8 @@ remote_branch: 'deploy_site'
 nav:
   - Home: index.md
   - Chars and Skills: characters.md
-  - Items: items.md
   - Progression: progression.md
+  - Items: items.md
   - Play online: tsw.md
   - Tools: tools.md
   - FAQ: faq.md
