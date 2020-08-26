@@ -9,7 +9,7 @@ Here is the installation guide : [Click me](https://forum.median-xl.com/viewtopi
 
 # THE GUIDE/THE MOD
 
-Welcome to the Unofficial Beginner Guide for MedianXL Sigma (MXLS) . This is a Guide designed not only as a minimalist guide for the most beginner but also a condensate of ready made guides and treads on many subject.  
+Welcome to the Unofficial Beginner Guide for MedianXL Sigma (MXLS) . This is a Guide designed not only as a minimalist guide for the most beginner but also a condensate of ready made guides and threads on many subject.  
 
 This guide will only give you the most basic information, and redirect you to other more precise guides.  
 
@@ -27,6 +27,8 @@ This Guide ***DOES NOT*** intent on taking over either the official documentatio
 In order to make any progress in this game you ***ABSOLUTELY*** need to read the official documentation. It hold most of the infos newbies are asking for. Especially the [Cube Recipe section](https://docs.median-xl.com/doc/items/cube)  
 I cannot stress this enough.
 
+
+The [Changelog](https://www.median-xl.com/changelog.php) is also a page that is worth reading! it only explains every changes item and skill wise but also monsters and game play changes.
 
 # ADDITIONNAL INFO
 

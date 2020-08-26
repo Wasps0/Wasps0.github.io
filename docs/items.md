@@ -2,7 +2,14 @@
 
 Visit [this thread](https://forum.median-xl.com/viewtopic.php?f=49&t=19419) for an in depth yet clear guide on crafting 🔨  
 And this one for the [cube recipes docs](https://docs.median-xl.com/doc/items/cube).    
-Items are subjected to being used in recipes, especially powerful ones, check the cube docs to know them all.
+Items are subjected to being used in recipes, especially powerful ones, check the cube docs to know them all.  
+important recipes:  
+Make arcane shards ``Any unique item + Catalyst of Disenchantment → Arcane Shards + Catalyst of Disenchantment``  
+Make arcane crystals ``Arcane Shards x5 → Arcane Crystal``  
+Make a TU ``2 Arcane Crystals + Oil of Enhancement + item = unique of same tier and same base``  
+Uptier TU ``Non-sacred weapon/armor + Arcane Crystal → reroll as next higher tier``  
+Socket item ``Non-socketed item + jewel x[1-6] → returns item with [1-6] sockets``  
+
 
 # GENERAL INFO
 
@@ -12,8 +19,7 @@ To understand each item types look into the first section of each item type's do
 ## TU (Tiers Uniques)
 
 TUs have 4 ranks. Their stats requirement and general power depend on their stats. Check the [docs](https://docs.median-xl.com/doc/items/tiereduniques#idx0) for a list of them all, and their stats.  
-You can turn useless TU into arcane shards &rarr; ![](../img/as.png) and ![Newbie walkthrough](../img/ac.png)  
-![](../img/tu.png)  
+You can turn useless TU into arcane shards (see the recipes up on that page) 
 Be careful when up-tiering a tiered unique, the requirements can jump tremendously from one tier to the other. Always check the docs out first. You cannot reduce a TU tier, only up-tiering is possible.
 
 ## SU ( Sacred Uniques)

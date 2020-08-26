@@ -4,6 +4,7 @@ Only a couple of external tools are allowed to be used or discussed. Check this 
 
 D2stats is a stat reader ***AND*** a loot filter. Here is the [thread](https://forum.median-xl.com/viewtopic.php?f=4&t=3702) about it  
 The loot filter is customizable and will allow you to see only the item you choose to see, and also be notified when some elite item drops ( colored text in the upper left corner)  
+The loot filter is included ( but can be modified)  
 ***Allowed online***
 
 ## SPEED CALCULATOR

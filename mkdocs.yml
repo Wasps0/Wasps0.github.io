@@ -6,6 +6,12 @@ copyright: 'Copyright notice : All the content on this website is free of right 
 
 theme:
   name: windmill-dark
+  custom_dir: mkdocs-windmill-dark
+  history_buttons: false
+  article_nav_top: false
+  article_nav_bottom: true
+  include_search_page: true 
+  search_index_only: true
 
 markdown-extensions:
     - meta
@@ -13,7 +19,7 @@ markdown-extensions:
 
 
 remote_branch: 'deploy_site'
-
+ 
 
 nav:
   - Home: index.md

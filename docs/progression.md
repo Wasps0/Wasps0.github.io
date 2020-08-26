@@ -16,19 +16,31 @@
 
 Alternatively: HechtHeftig's thorough [Newbie walkthrough](https://forum.median-xl.com/viewtopic.php?f=40&t=34407)
 
-## MONSTERS
+## MONSTERS, CHARMS AND LEVELING
   
-Each areas have different monster level. It is better to kill monsters that are around your level. Aerial has made a recap list that is very [handy](https://forum.median-xl.com/viewtopic.php?f=40&t=22675&hilit=cow) (It's the text with colors around the middle of his post)
-those are all the types of monsters:  
+Each areas have different monster level. It is better to kill monsters that are around your level. 
 
-1. Regular Monsters &rarr; common and easy to kill
-1. Elite Monsters &rarr; harder, gives more loot and xp
-1. Veteran Monsters &rarr; dont exist anymore used to drop eyes
-1. Uber Monsters &rarr; common uber level enemy, hard to kill
-1. Super Unique Monsters &rarr; like in D2LoD, they are minibosses and bosses
-1. Uber Bosses &rarr; increasingly tough, drop uber charm
-	1. Dungeons
-	2. Rifts
+Charms also have specific level requirement, here's some links to get a list of charms:  
++ [tsw charm list](https://tsw.vn.cz/quests/)  
++ Aerial's [recap list](https://forum.median-xl.com/viewtopic.php?f=40&t=22675&hilit=cow) (It's the text with colors around the middle of his post)  
+
+
+Here's the quick recap for the EXP grind:  
++ EXP from lvl 1 to lvl 110: Just play the game normally  
++ EXP to get to lvl 110: IotSS / A5 Red portals / End of A5 / A5 Icy Cellar  
++ EXP to get to lvl 115: Torajan Jungles / Cow Level  
++ EXP to get to lvl 120: K3BA / Tran Athulua / Khalimgrad / Azmodan level  
++ EXP to get to lvl 125: Duncraig / Teganze / Triune  
++ EXP to get to lvl 140+: Fauztinville / Bremmtown / Vizjun / Toraja / Duncraig/ Lab  
+
+Those are all the types of monsters:  
+
++ Regular Monsters &rarr; common and easy to kill
++ Elite Monsters &rarr; harder, gives more loot and xp
++ Veteran Monsters &rarr; dont exist anymore used to drop eyes
++ Uber Monsters &rarr; common uber level enemy, hard to kill
++ Super Unique Monsters &rarr; like in D2LoD, they are minibosses and bosses
++ Uber Bosses &rarr; increasingly tough, drop uber charm
 
 
 ## LOOTS AND ITEMS ![el rune](../img/El_Rune.webp)

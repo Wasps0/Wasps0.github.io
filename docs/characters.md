@@ -4,7 +4,7 @@ All the Chars in MXL are completely different than classic Diablo II. Their skil
 
 For the intent of letting you experience the game by yourself, and in order to not bury you under too much information, we will not spoon feed you every single aspect of the different chars. You will have to discover them by yourself. Each chars have different builds that can be played and are viable. Some builds are more viable and/or noob friendly than others, and your best bet is to look into [The Guide Center](https://forum.median-xl.com/viewforum.php?f=40) to make up your mind about them.
 
-That said if you insist, you can go to the 'What class to play' section of the [Newbie guide](https://forum.median-xl.com/viewtopic.php?f=40&t=34407)
+That said if you insist, you can go to the 'What class to play' section of the [Newbie guide](https://forum.median-xl.com/viewtopic.php?f=40&t=34407) or Seekers extremely good tiered [list of builds](https://forum.median-xl.com/viewtopic.php?p=361613)
 
 # SKILLS
 ![Placeholder](../img/skill_banner.png)  
@@ -21,7 +21,7 @@ Each level up give you a skill point to invest. You can reset your skill points 
 In MXLS resistances are way more important than in Classic Diablo II. You should try to max out your resistances at all times. Here are the resistance penalties :  
 - Normal = no res penalties  
 - Nightmare = -30% resistance  
-- Hell = -70 resistance  
+- Hell = -70% resistance  
 
 At all point your max resistance is soft capped at 75% but it can be increased up to 90%. That value is 50% for physical resistance.  
 You can socket either Onyx, Bloodstone, Amber or Turquoise to increase both your resistance but also your max resistance threshold.
