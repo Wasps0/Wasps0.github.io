@@ -26,18 +26,17 @@ Be careful when up-tiering a tiered unique, the requirements can jump tremendous
 
 SU are the next 'rank' of item. Generally better than T4 TU they are important for progressing in the game.
 Each item types has one SU and one SSU (sacred-sacred-unique). SU on the left, SSU on the right.
-![](../img/su.png)
+![](../img/su.webp)
 A SSU isn't always better than an SU for your build. Read the documentation to check the item's stats and if they fit your build.
 
 Sometimes a simple TU with good stats is better than an useless SU!
 
 SU can be made into a token that add 1 (one) stat up when right clicking. Those are commonly referred as 'Sigs'. The maximum amount of sigs you can eat is 400.  
-This is a sig &rarr; ![](../img/sig.png)
 
 ## HONORIFICS AND MYSTIC ORBS
 <figure>
-  <img src="../img/honor.png" width="300" />
-  <img src="../img/mo.png" width="300" />
+  <img src="../img/honor.webp" width="300" />
+  <img src="../img/mo.webp" width="300" />
 </figure>
 Honorifics are special items that can be made with either TU or SU items. Their text appear green in the game. They can be made in the cube with ```any magic item + Mark of infusion = honorific```  
 Honorifics ( like any other items) can be cubed with [Mystic Orbs (MO)](https://docs.median-xl.com/doc/items/cube#idx4) one by one to transfer the MO stat to the item, except honorific gain *double* the amount of stats and have the maximum amount of sockets. Very handy if you don't find an item you need and want to get a lot of resistance/dexterity/stats on a glove, or boots. Use a base magic item with low lvl required since *each* MO adds a + 4 level required to the item. You can only apply up to 5 of the same type of regular Mystic Orb to your item.

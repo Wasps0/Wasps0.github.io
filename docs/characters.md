@@ -1,5 +1,5 @@
 # CHARACTERS
-![](../img/char_banner.png)  
+![](../img/char_banner.webp)  
 All the Chars in MXL are completely different than classic Diablo II. Their skills are different, their ability to carry loot is different, etc
 
 For the intent of letting you experience the game by yourself, and in order to not bury you under too much information, we will not spoon feed you every single aspect of the different chars. You will have to discover them by yourself. Each chars have different builds that can be played and are viable. Some builds are more viable and/or noob friendly than others, and your best bet is to look into [The Guide Center](https://forum.median-xl.com/viewforum.php?f=40) to make up your mind about them.
@@ -7,7 +7,7 @@ For the intent of letting you experience the game by yourself, and in order to n
 That said if you insist, you can go to the 'What class to play' section of the [Newbie guide](https://forum.median-xl.com/viewtopic.php?f=40&t=34407) or Seekers extremely good tiered [list of builds](https://forum.median-xl.com/viewtopic.php?p=361613)
 
 # SKILLS
-![Placeholder](../img/skill_banner.png)  
+![Placeholder](../img/skill_banner.webp)  
 Skills are the meat of your build. Most work like in Diablo II with some notable changes. One key info is to read carefully the skill description. It will help you understand them.  
 
 Skills are explained in the Docs, under the 'Character' tab.  

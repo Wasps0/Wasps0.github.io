@@ -31,8 +31,8 @@ If you suffer from Color blindness, vision impairment or shitty screen colors sy
 
 Additionally, if like me, the in-game font isn't very readable you can swap for another ready made font. The installation process is less straight forward but not very complex. [Here is my guide](https://gitlab.com/Wasps/diablo-2-fonts/-/blob/master/installing.md) and personal page to get all the different font we've made
 <figure>
-  <img src="../img/color_blind.png" width="400" />
-  <img src="../img/font.png" width="200" />
+  <img src="../img/color_blind.webp" width="400" />
+  <img src="../img/font.webp" width="200" />
 </figure>
 
 Feel free to check the other [tools](https://www.median-xl.com/tools.php)

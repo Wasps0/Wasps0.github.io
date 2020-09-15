@@ -1,5 +1,5 @@
 
-![](../img/tsw_logo.png)
+![](../img/tsw_logo.webp)
 # GETTING INTO THE GAME
 
 1.  you need to have Diablo II LoD installed on your computer.  

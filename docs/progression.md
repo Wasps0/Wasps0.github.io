@@ -47,5 +47,5 @@ Those are all the types of monsters:
 
 Items have specific stats that are needed to have before equipping them. Always keep a few stat point to be able to equip them at all times. Some items can only be equipped by specific chars, beware of that.  
 Be careful before upgrading a TU item to its next tier, as the stats requirement are steep. Check their page for a indication of their stat requirements.  
-![](../img/tu.png)  
+![](../img/tu.webp)  
 Look at the dexterity requirement from Tier3 to Tier4, its a huge step. Don't upgrade before checking the docs. More in the [Item section](https://wasps0.github.io/#items/).
